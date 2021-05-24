@@ -1,1 +1,4 @@
-/bin/
+target
+.idea
+Turtle-Interpreter.iml
+dependency-reduced-pom.xml
